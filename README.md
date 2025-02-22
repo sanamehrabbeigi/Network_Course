@@ -1,5 +1,5 @@
 # Network_Course
 
-NetworkI :
+NetworkI: 
 
-NetworkII : mytopo - projest with mininet
+NetworkII: mytopo - project with mininet
